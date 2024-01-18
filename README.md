@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hey I'm Sonav!
+
+I'm a student studying CS at UCLA! Right now, I'm taking Deep Learning, Databases, and Programming Languages.
+
+#### Thing's I'm working on
+* https://joinpoppin.com (PearVC accelerator, raised seed from 1984 ventures)
+  * building the web app and Android app for a startup that connects people on college campuses through events
+* [Nova]([url](https://www.novaforgood.org/)) X [GoodFoodLA]([url](https://www.goodfoodla.org/))
+  * buiding an online tool to aid and encourage food-insecure individuals to access healthy food resources in LA
 
 <!--
 **SonavAgarwal/SonavAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
