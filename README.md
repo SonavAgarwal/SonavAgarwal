@@ -1,4 +1,4 @@
-e### 👋 Hey I'm Sonav!
+### 👋 Hey I'm Sonav!
 
 I'm a student studying CS at UCLA! Right now, I'm taking Deep Learning, Databases, and Programming Languages.
 
